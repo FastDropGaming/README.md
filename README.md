@@ -18,7 +18,7 @@ Ich probiere schon seit 2017 java zu lernen habe es aber nie richtig durch gezog
 
 ### Contact Me 📫  
 Discord Server: [**FastUnity**]
-<img src="./img/soon.png">
+<img src="/img/soon.png">
 
 Personal Discord account: [**Drillenissen#0666**](https://www.discord.gg) 
 
