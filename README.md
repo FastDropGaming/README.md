@@ -1,7 +1,19 @@
 <p align="center">
-<img alt="" src=https://img.shields.io/github/stars/fastdropgaming?affiliations=OWNER%2CCOLLABORATOR />
-<img alt="" src=https://komarev.com/ghpvc/?username=fastdropgaming />
+<img alt="" src=https://img.shields.io/github/stars/fastdropgaming?affiliations=OWNER%2CCOLLABORATOR&label=Sterne&color=yellow&style=plasticz />
+<img alt="" src=https://komarev.com/ghpvc/?username=fastdropgaming&color=brightgreen&style=plastic&label=Profile+Aufrufe />
+<img alt="" src=https://img.shields.io/github/repo-size/fastdropgaming/readme.md?style=plastic>
+<img alt="" src=https://img.shields.io/github/last-commit/fastdropgaming/readme.md?style=plastic>
+<img alt="" src=https://img.shields.io/badge/Made%20in-Deutschland-green?style=plastic&label=Gemacht+in>
 </p>
+
+<p align="center">
+<img alt="" src=https://img.shields.io/github/followers/fastdropgaming?style=social&label=Github+Follower>
+<img alt="" src=https://img.shields.io/twitter/follow/fastdropg?style=social&label=Twitter+Follower>
+<img alt="" src=https://img.shields.io/youtube/channel/subscribers/UC6qBCiA7IMBboBUnbOtR0pQ?style=social&label=YouTube+Abonnenten>
+</p>
+
+<p align="center">
+<img alt="" src=https://img.shields.io/twitch/status/fastdrop_gaming?style=social>
 
 ## Oh Hallo 👋
 Willkommen auf meinem Github Profil
