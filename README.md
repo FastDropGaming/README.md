@@ -16,18 +16,17 @@ Ich probiere schon seit 2017 java zu lernen habe es aber nie richtig durch gezog
 - [xPeakGamingY](https://account.xbox.com/de-de/profile?gamertag=xPeakGamingY) - Dafür das er mein kleiner Bruder ist
 - Meine Familie - Die mich bei allem untersützt  was ich mache
 
-### Contact Me 📫  
+### Kontaktiere Mich 📫  
 Discord Server: [**FastUnity**]
 <img src="/img/soon.png">
 
-Personal Discord account: [**Drillenissen#0666**](https://www.discord.gg) 
-
-Email: 
-logicguy.mailandcontact@gmail.com  
-
-Discord server: **[discord.gg/anon](https://www.anonix.xyz/discord)** 
-
-Matrix server: https://matrix.to/#/#anonix.verification:matrix.org
+Guilded server: [**FastUnity Guilded**]
+<img src="/img/soon.png">
 
 
-### ⬇️⬇️⬇️ meine Besten Projekte (Bis jetzt ;)) ⬇️⬇️⬇️
+Sozialen Medien Links: [**Alle Links zu YT, Twitter etc.**](https://www.solo.to/fastdropg) 
+
+Email Business **ONLY!!**: 
+business.fastdropg@gmail.com  
+
+### ⬇️⬇️⬇️ Meine Besten Projekte (Bis jetzt ;)) ⬇️⬇️⬇️
