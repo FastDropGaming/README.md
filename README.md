@@ -36,7 +36,7 @@ Guilded server: [**FastUnity Guilded**]
 <img src="/img/soon.png">
 
 
-Sozialen Medien Links: [**Alle Links zu YT, Twitter etc.**](https://www.solo.to/fastdropg) 
+Sozialen Medien Links: [**Alle Links zu YT, Twitter etc.**](https://fastdropg.carrd.co/) 
 
 Email Business **ONLY!!**: 
 business.fastdropg@gmail.com  
